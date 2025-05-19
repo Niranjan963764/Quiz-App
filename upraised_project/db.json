@@ -1,0 +1,100 @@
+{
+  "quiz": {
+    "id": 1,
+    "questions": [
+      {
+        "id": 1,
+        "text": "What is the capital of France?",
+        "options": [
+          "Berlin",
+          "Madrid",
+          "Paris",
+          "Rome"
+        ],
+        "correctOption": 2,
+        "image": "/th.jpg"
+      },
+      {
+        "id": 2,
+        "text": "Which programming language is used for web development?",
+        "options": [
+          "Python",
+          "JavaScript",
+          "C++",
+          "Java"
+        ],
+        "correctOption": 1
+      },
+      {
+        "id": 3,
+        "text": "What is the largest planet in our solar system?",
+        "options": [
+          "Earth",
+          "Mars",
+          "Jupiter",
+          "Saturn"
+        ],
+        "correctOption": 2
+      },
+      {
+        "id": 4,
+        "text": "What is the smallest continent by land area?",
+        "options": [
+          "Africa",
+          "Australia",
+          "Europe",
+          "Antarctica"
+        ],
+        "correctOption": 1
+      },
+      {
+        "id": 5,
+        "text": "Which planet is known as the Red Planet?",
+        "options": [
+          "Venus",
+          "Mars",
+          "Jupiter",
+          "Saturn"
+        ],
+        "correctOption": 1
+      }
+    ]
+  },
+  "answer": [
+    {
+      "id": "6960",
+      "questionId": 1,
+      "selectedOption": 2,
+      "timeTaken": 10,
+      "isCorrect": true
+    },
+    {
+      "id": "6c71",
+      "questionId": 2,
+      "selectedOption": 3,
+      "timeTaken": 10,
+      "isCorrect": false
+    },
+    {
+      "id": "64af",
+      "questionId": 3,
+      "selectedOption": 2,
+      "timeTaken": 10,
+      "isCorrect": true
+    },
+    {
+      "id": "1725",
+      "questionId": 4,
+      "selectedOption": 2,
+      "timeTaken": 10,
+      "isCorrect": false
+    },
+    {
+      "id": "9714",
+      "questionId": 5,
+      "selectedOption": 1,
+      "timeTaken": 10,
+      "isCorrect": true
+    }
+  ]
+}
